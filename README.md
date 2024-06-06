@@ -1,1 +1,1 @@
-# todo-js
+# Vanilla JS ToDo App
